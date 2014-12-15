@@ -12,7 +12,7 @@ Pod::Spec.new do |s|
   s.author       = { "Yann BONAFONS" => "yann.bonafons@gmail.com" }
   s.platform     = :ios, '5.0'
 
-  s.source       = { :git => "https://github.com/Yabon14/UIImage-ResizeNCrop.git"}
+  s.source       = { :git => "https://github.com/Yabon14/UIImage-ResizeNCrop.git", :tag => "0.0.1"}
   s.source_files  = '*.{h,m}'
   s.requires_arc = true
 
