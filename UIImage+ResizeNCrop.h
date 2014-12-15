@@ -2,7 +2,7 @@
 //  UIImage-ResizeNCrop.h
 //  UIImage-ResizeNCrop
 //
-//  Created by Airweb on 15/12/2014.
+//  Created by Yann BONAFONS on 15/12/2014.
 //
 //
 
