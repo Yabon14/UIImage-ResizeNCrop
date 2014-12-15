@@ -8,7 +8,7 @@ Pod::Spec.new do |s|
                    DESC
 
   s.homepage     = "https://github.com/Yabon14/UIImage-ResizeNCrop"
-
+  s.license      = 'MIT'
   s.author       = { "Yann BONAFONS" => "yann.bonafons@gmail.com" }
   s.platform     = :ios, '5.0'
 
