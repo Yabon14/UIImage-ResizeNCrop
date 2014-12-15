@@ -6,7 +6,7 @@
 //
 //
 
-#import "UIImage-ResizeNCrop.h"
+#import "UIImage+ResizeNCrop.h"
 
 @implementation UIImage (ResizeNCrop)
 
